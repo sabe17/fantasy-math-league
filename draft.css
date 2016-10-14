@@ -1,0 +1,76 @@
+*{
+	box-sizing:border-box;
+}
+
+h1 {
+	color: burlywood;
+	font-family: Impact;
+	text-align: center;
+	font-size: 4rem;
+	border: 2px solid black;
+	margin-bottom: 0%;
+}
+
+.headbar {
+	border: 1px solid black;
+	font-size: 2rem;
+	display: inline-flex;
+	background-color: whitesmoke;
+	width: 100%;	
+	margin-top: 0%;
+	padding: 0%;
+}
+
+.headbarp {
+	border: 1px solid black;
+	width: 25%;
+	border-radius: 1%;
+	text-align: center;
+	text-decoration: none;
+	color: olive;
+	font-family: Impact;
+	padding: 0%;
+}
+
+img {
+	padding: 2%;
+	border: 5% solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#explanation {
+	font-family: Arial;
+	color: black;
+	text-align: center;
+}
+
+ol {
+	font-family: Futura;
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+ul {
+	margin: 1%;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #CC0000;
+}
+
+a:visited {
+	color: #8A2BE2;
+}
+
+.swagger {
+	font-family: Futura;
+	color: black;
+	margin: 2%;
+}

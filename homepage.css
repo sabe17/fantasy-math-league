@@ -1,0 +1,115 @@
+*{
+	box-sizing:border-box;
+}
+
+h1 {
+	text-align: center;
+	font-size: 4rem;
+	font-family: Futura;
+	color: burlywood;
+	padding: 1%;
+	margin: 0%;
+	border: 1px solid black;
+	background-color: whitesmoke;
+}
+
+h1:hover {
+
+}
+
+body {
+	background-color: tan;
+}
+
+.headbar {
+	border: 1px solid black;
+	font-size: 2rem;
+	display: inline-flex;
+	background-color: whitesmoke;
+	width: 100%;
+	text-decoration: 
+}
+
+.headbarp {
+	border: 1px solid black;
+	width: 25%;
+	border-radius: 1%;
+	text-align: center;
+	text-decoration: none;
+	color: olive;
+	font-family: Impact;
+}
+
+.headbarp a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+#description {
+	font-size: 1rem;
+	font-family: Verdana;
+	text-align: center;
+	border: 1px solid black;
+	background-color: whitesmoke;
+	margin: 1%;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2%;
+	height: 100%;
+	width: 75%;
+}
+
+li {
+	list-style-type: none;
+	text-align: center;
+}
+
+.blocks {
+	display: inline-flex;
+	color: black;
+	width: 100%;
+	height: 25%;
+	font-size: 1rem;
+	background-color: whitesmoke;
+}
+
+.matchups {
+	text-align: center;
+	width: 50%;
+	height: 25%;
+	font-size: 1rem;
+	padding: 2%;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.freeagents {
+	text-align: center;
+	width: 50%;
+	height: 25%;
+	font-size: 1rem;
+	padding: 2%;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.box {
+	height: 25%;
+	width: 75%;
+	border: 1px solid black;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: whitesmoke;
+}
